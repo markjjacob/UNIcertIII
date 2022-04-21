@@ -51,3 +51,7 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 ## Stuff from opal
 
 ??[opal](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/32361119750/CourseNode/1631673019792429011)
+
+## sentence starters
+
+![](./img/sentence_starters.jpg)
