@@ -10,7 +10,7 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/sentence_connectors.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/sentence_connectors.md)
 
 # Our second hybrid lesson
 
@@ -50,4 +50,4 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 ## Stuff from opal
 
-??[](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/32361119750/CourseNode/1631673019823244011/Elements%20of%20Writing)
+??[opal](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/32361119750/CourseNode/1631673019792429011)
