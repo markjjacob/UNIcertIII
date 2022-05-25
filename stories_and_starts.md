@@ -3,7 +3,7 @@
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
 version:  0.0.1
-language: de
+language: en
 narrator: UK English Female
 comment: First hybrid lesson
 icon: ./img/TUBAF_Logo_orig_RGB.jpg
