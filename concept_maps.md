@@ -18,6 +18,8 @@ import: https://raw.githubusercontent.com/liascript-templates/plantUML/master/RE
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/concept_maps.md)
+
 # Today's session
 
 @mermaid(`flowchart LR\nid1(This is the text in the box)`)
