@@ -29,7 +29,7 @@ import: https://raw.githubusercontent.com/liascript-templates/plantUML/master/RE
  
 
 ```text @mermaid
-flowchart LR
+flowchart TB
     A[Microscopy] --> |One| B[Solution]
     A --> |Two| C[Problem]
     style A fill:#F99
