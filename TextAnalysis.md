@@ -18,7 +18,7 @@ import: https://raw.githubusercontent.com/liaTemplates/TextAnalysis/main/README.
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/TextAnalysis.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/TextAnalysis.md)
 
 # Analysis and Improvement of English
 
