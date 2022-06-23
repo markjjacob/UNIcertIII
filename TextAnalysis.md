@@ -44,12 +44,12 @@ import: https://raw.githubusercontent.com/liaTemplates/TextAnalysis/main/README.
 
 https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/32361119750/CourseNode/1655346515651983008
 
-##    Text analysis tool (readability index etc)
+## Text analysis tool (readability index etc)
 
 ``` text
 Delete this and paste your text here
 ```
-@Textanalysis.FULL
+@Textanalysis.BASE
 
 ## Sentence starters/connectors
 
@@ -57,8 +57,4 @@ Delete this and paste your text here
 
 ## Word Value
 
-??[WordValue](http://www.wordvalue.gwi.uni-muenchen.de/home)
-
-## Keys
-
-./keys_1.csv
+[WordValue](http://www.wordvalue.gwi.uni-muenchen.de/home)
