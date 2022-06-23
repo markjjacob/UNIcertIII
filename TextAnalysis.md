@@ -58,3 +58,7 @@ Delete this and paste your text here
 ## Word Value
 
 [WordValue](http://www.wordvalue.gwi.uni-muenchen.de/home)
+
+## Results
+
+??[](https://docs.google.com/spreadsheets/d/1EpnCnqcr9CIktb0A56Ls1VbkArjDaZK-5WBPO62h3HU/edit#gid=0)
