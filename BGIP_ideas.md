@@ -79,13 +79,7 @@ https://www.youtube.com/watch?v=vn318ExQAaQ
 }
 ```
 
-## Multiple languages
-
-<!--
-
-language: de
-
--->
+## I want the language on this slide to be German
 
 ```json @grabber
 {
