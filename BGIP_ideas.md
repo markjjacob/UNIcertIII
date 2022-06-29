@@ -56,7 +56,9 @@ test: @Textanalysis.FULL
 
 # BGIP SHK
 
-??[](https://tu-freiberg.de/presse/geophysik-studieren-und-netzwerken)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/BGIP_ideas.md)
+
+??[BGIP news](https://tu-freiberg.de/presse/geophysik-studieren-und-netzwerken)
 
 ## YouTube Script Grabber
 
