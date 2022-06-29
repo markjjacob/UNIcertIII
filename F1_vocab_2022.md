@@ -19,15 +19,15 @@ translation: Français translations/French.md
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/F1_vocab_2022.md)
 
-The following Quiz is made by the students of faculty one. Those are studying maths, computer science and robotics. So obviously the questions are related too those fields.
+The following Quiz is made by the students of faculty one. Those are studying maths, computer science and robotics. So obviously the questions are related to those fields.
 
 The Quiz should help us to learn the 64 words which we have to know for our exam. 
 
-But it can also be very funny for everyone who wants to test their knowledge about those topics. 
+But it can also be good fun for everyone who wants to test their knowledge about those topics. 
 
 ## 1. 
 
-1. It is is the part of the CPU (central processing unit) where intermediate arithmetic and logic results are stored.
+1. It is the part of the CPU (central processing unit) where intermediate arithmetic and logic results are stored.
 
 [[Accumulator]]
 
