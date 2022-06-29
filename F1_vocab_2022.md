@@ -5,8 +5,9 @@ version:  0.1.0
 language: en
 narrator: US English Female
 
-comment:  This simple description of your course.
-          Multiline is also okay.
+comment:  This is a short course created by students of Faculty 1 at TU Bergakademie Freiberg.
+
+icon: ./img/WBM_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
