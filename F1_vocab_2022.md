@@ -15,9 +15,9 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation: Français translations/French.md
 -->
 
-# English Vocab Quiz
-
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/F1_vocab_2022.md)
+
+# English Vocab Quiz
 
 The following Quiz is made by the students of faculty one. Those are studying maths, computer science and robotics. So obviously the questions are related to those fields.
 
