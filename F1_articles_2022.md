@@ -7,6 +7,8 @@ narrator: UK English Female
 
 comment:  This is a short course created by students of Faculty 1 at TU Bergakademie Freiberg.
 
+icon: ./img/WBM_orig_RGB.jpg
+
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
