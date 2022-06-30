@@ -8,6 +8,8 @@ narrator: UK English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
+icon:     https://tu-freiberg.de/sites/default/files/media/institute-of-geophysics-and-geoinformatics-575/infobild/institute_winter_2.png?1605098321
+
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
@@ -54,9 +56,9 @@ test: @Textanalysis.FULL
 
 -->
 
-# BGIP SHK
-
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/UNIcertIII/blob/main/BGIP_ideas.md)
+
+# BGIP SHK
 
 ??[BGIP news](https://tu-freiberg.de/presse/geophysik-studieren-und-netzwerken)
 
