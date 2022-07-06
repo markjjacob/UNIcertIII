@@ -168,30 +168,29 @@ A ____  is a program that visits Web sites and reads their pages and other infor
 
 ## 3
 
-{{0}}
 ![](http://1.bp.blogspot.com/-KO06XqoOwfU/Up4RoJsCn0I/AAAAAAAAATo/_x_DxxFFnQU/s1600/Unicode00.gif)
 
 What is it called?
 
 [[Unicode]]
 
-{{1}}
+### 3 continued
+
 Unicode is an encoding format that allocates a numeric code to characters in order for them to be represented in binary within a computer system. It covers the characters for most known alphabets and special symbols (e.g. mathematical operators, geometric shapes, arrows, emojis, etc.). Before Unicode was established there were many different systems of character encoding therefore international work was rather difficult. Unicode was developed as a global standard to support all the word's languages.
 
 ## 4
 
-{{0}}
 ![](https://introcs.cs.princeton.edu/java/71boolean/images/truth-table.png)
 
 What is it called?
 
 [[Truth table]]
 
-{{1}}
+### 4 continued
+
 A table showing the outputs for all possible combinations of inputs to a logic gate or a circuit made up of logic gates. They are often used in connection with Boolean Functions.
+
 [More information on truth tables](https://en.wikipedia.org/wiki/Truth_table "More information on truth tables")
-
-
 
 ## 5
 
