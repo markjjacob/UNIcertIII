@@ -8,7 +8,7 @@ narrator: UK English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
-icon:     https://tu-freiberg.de/sites/default/files/media/institute-of-geophysics-and-geoinformatics-575/infobild/institute_winter_2.png?1605098321
+icon:     icon: ./img/WBM_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
