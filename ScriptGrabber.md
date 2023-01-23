@@ -8,7 +8,7 @@ narrator: UK English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
-icon:     icon: ./img/WBM_orig_RGB.jpg
+icon:     ./img/WBM_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
